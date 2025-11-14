@@ -1,3 +1,14 @@
+---
+
+# Description: 
+Frontend sprint project with responsive design and dynamic content rendering.
+
+----
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
